@@ -14,8 +14,13 @@ Right click to cycle through dispensing options
 Bunsen Burner
 Left click to toggle off/on
 
+Incubator
+Click buttons to adjust temp and turn off/on
+Click screen to cycle display units
+
 Chemical Storage Cabinet
 Left click to open gui menu
+Drag and drop chemical bottles over storage to put away
 
 Autopipette
 Left click to pick up
