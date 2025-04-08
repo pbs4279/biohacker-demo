@@ -25,6 +25,7 @@ Drag and drop chemical bottles over storage to put away
 Autopipette
 Left click to pick up
 Shift+LMB while holding to dispense
+Dispensing over a bottle will empty pipette into that bottle
 Right click to drop
 
 Probe
